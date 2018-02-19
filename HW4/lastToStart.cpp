@@ -6,8 +6,6 @@
  * References: //http://www.cplusplus.com/forum/general/22813/
  *             //https://www.geeksforgeeks.org/greedy-algorithms-set-1-activity-selection-problem/
  *
- * ***** NOTES: The activities that's being printed out after the first one are slightly inaccurate. However, the First
- *              set is correct. *****
  */
 
 #include <iostream>
