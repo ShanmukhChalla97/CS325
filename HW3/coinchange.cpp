@@ -7,12 +7,6 @@
  *      https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/
  */
 
- /* ******* Note: I was not able to complete the file I/O portion of the assignment because I poorly estimated the
-  *       time it would take to finish this assignments due to midterms and other obligations. However, I did comment
-  *       out my work for the file I/O and I would greatly appreciate it if I could receive partial credit by any
-  *       chance. ********
-  */
-
 #include <bits/stdc++.h>
 #include <iostream>
 #include <time.h>
